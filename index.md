@@ -7,10 +7,10 @@ published: true
 
 This curriculum has five modules that will walk you through the EBP process, all linked in the nav bar at the top of the page:
 * **[Module 1](/modules/module%201/intro/)**: Preparing for evidence-based practice
-* **[Module 2](/modules/module%202/intro/)** : Collecting evidence
-* **[Module 3](/modules/customize/favicon)** : Analyzing and interpreting evidence
-* **[Module 4](/modules/customize/favicon)** : Communicating evidence
-* **[Mini-Module 5](/modules/customize/favicon)** : Reflecting on your EBP journey
+* **[Module 2](/modules/module%202/intro/)**: Collecting evidence
+* **[Module 3](/modules/module%203/intro/)**: Analyzing and interpreting evidence
+* **[Module 4](/modules/module%204/intro/)**: Communicating evidence
+* **[Mini-Module 5](/modules/customize/favicon)**: Reflecting on your EBP journey
 
 <br> 
 <a class="btn btn-primary" href="https://projectdvd.github.io/modules/start%20here/welcome/">Get Started</a>
