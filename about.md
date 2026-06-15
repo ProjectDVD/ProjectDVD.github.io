@@ -2,6 +2,9 @@
 layout: page
 ---
 
+# About Us
+The Project DVD curriculum is 
+
 ## Project Team
 
 
