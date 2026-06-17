@@ -1,1 +1,23 @@
+table {
+  width: 100%;
 
+  th {
+    color: black;
+    font-size: 12px;
+    font-weight: 500;
+    height: 50px;
+  }
+
+  td {
+    font-size: 12px;
+    height: 48px;
+  }
+
+  td,
+  th {
+    padding: 0.5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+  }
+}
