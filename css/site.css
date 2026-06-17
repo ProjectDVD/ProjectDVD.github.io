@@ -3,14 +3,14 @@ table {
 
   th {
     color: black;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 500;
     font-style: bold;
     height: 50px;
   }
 
   td {
-    font-size: 16px;
+    font-size: 20px;
     height: 48px;
   }
 
