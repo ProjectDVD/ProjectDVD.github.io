@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ProjectDVD/ProjectDVD.github.io/blob/gh-pages/img/dvd%20banner.jpg?raw=true" alt="Profile Banner" width="100%">
-</p>
-
 # An open-source project for creating online courses, built by P2PU
 Course-in-a-Box is a free tool for building and publishing online courses — no prior coding experience required. 
 
