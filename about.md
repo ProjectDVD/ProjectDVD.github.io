@@ -10,6 +10,7 @@ The Project DVD curriculum is the culmination of a multi-year IMLS grant project
 ## Project Team
 
 **Jennifer Moore, Ph.D.**
+
 Dr. Moore is an Associate Professor at the School of Information Science at the University of South Carolina. She has 20 years of experience as a classroom teacher, school librarian, and school librarian educator. She has developed and/or revised multiple school librarian certification courses online, and she has an extensive research record, primarily studying EBP in school libraries and computational thinking. Moore is the former Chair of AASL’s Community of Scholars and the current Chair of the International Association of School Librarianship’s Research Special Interest Group (SIG).
 
 **Christie Kodama, Ph.D.**
@@ -23,14 +24,18 @@ Dr. Moore is an Associate Professor at the School of Information Science at the 
 **Heidi Fendrick**
 
 **Sorrel Goodwin**
+
 Sorrel Goodwin is a descendent of the hereditary leadership of the Aak’w Kwáan Lingít L’eeneidí Yaxte Hít and the Ahtna Nation from Copper Center, AK. In addition to this, as a grandchild of Sheep Creek Mary James, the last traditional Matriarch of the Aak’w Kwáan L’eeneidí Yaxte Hít and her son James Watson (Yashkanda.ets’ his namesake), one of the founding members of the Alaska Native Brotherhood, he has received traditional training as a clan historian and is intimately aware of the heavy responsibilities that he has inherited. Sorrel is a trained Librarian, Archivist, and Museum Professional with over 29 years’ experience in these fields. He is a very active Northwest Coast Indigenous Ethno-Historian and has fought tirelessly for the inclusion of an NWC Indigenous Historiography in all of the institutions in which he has worked. Yashkanda.ets’ is currently the School and Tribal Library Coordinator for the Alaska State Library department of Library Development (since September 2022) and was a
 Senior Librarian in the Alaska State Library-Historical Collections Library for 10 years before taking on this new position (School and Tribal Library Coordinator) in the division.
 
 **Lindsey Kimery**
+
 Lindsey Kimery is the Coordinator of Library Services at Metro Nashville Public Schools in Nashville, Tennessee, She is a Library Journal Mover and Shaker and was president of TASL in 2021. She currently serves on the AASL Board of Directors, TASL Legislative Task Force, and the board of AASL Supervisors’ Section. She lives in Franklin, TN, with her sons.
 
 **Steven Lockard, PhD**
+
 Dr. Steven Lockard has over 30 years of experience in public education including Superintendent of Schools in Carroll County, MD (2014-2018), Interim Superintendent of Fairfax (VA) County Public Schools (2016-2017), Deputy Superintendent of Fairfax County Public Schools, VA (2014-16, 2018) and Deputy Superintendent of Frederick County Public Schools, MD (2012-2014), with specific expertise in strategic planning, instruction, assessment, budgeting, community relations and communication, and school and organizational leadership. After almost two decades in systemic senior leadership roles, Dr. Lockard made the decision to return to his roots and reconnect with the most important work there is next to a teacher. He currently serves as principal of a Maryland rated "5-Star" school in Frederick County, MD, where he was a past Washington Post Distinguished Principal Award Winner.
 
 **Megan Oakleaf, MLS, PhD**
+
 Megan Oakleaf is a Professor of Library and Information Science in the iSchool at Syracuse University where she also services as the Associate Dean for Academic Affairs and the LIS Program Director.  She is the author of The Value of Academic Libraries: A Comprehensive Research Review and Report, Academic Library Value: The Impact Starter Kit, Library Integration in Institutional Learning Analytics, and Connecting Libraries and Learning Analytics for Student Success and has earned recognition and awards for articles published in top library and information science journals including College and Research Libraries, Portal, Reference and User Services Quarterly, JASIST, and Journal of Documentation. Megan has presented at numerous conferences, including the American Library Association (ALA), Association of College and Research Libraries (ACRL), Association of American Colleges and Universities (AAC&U), and Association for the Assessment of Learning in Higher Education (AALHE) national conferences, the Association of Research Libraries (ARL) Library Assessment Conferences, the IUPUI Assessment Institute, the Texas A&M Assessment Conference, Learning Impact Leadership Institute, CNI, ELI, and EDUCAUSE. Her research areas include outcomes assessment, evidence-based decision making, information literacy instruction, and academic library impact and value.
