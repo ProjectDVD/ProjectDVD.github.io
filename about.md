@@ -11,7 +11,7 @@ The Project DVD curriculum is the culmination of a multi-year IMLS grant project
 
 ### Jennifer Moore, Ph.D.
 
-<img align="left" src="/img/Moore_profile_pic_ProjectDVD.png" alt="Moore headshot" width="25%"/>
+<img align="left" src="/img/Moore_profile_pic_ProjectDVD.png" alt="Moore headshot" width="20%"/>
 
 Dr. Moore is an Associate Professor at the School of Information Science at the University of South Carolina. She has 20 years of experience as a classroom teacher, school librarian, and school librarian educator. She has developed and/or revised multiple school librarian certification courses online, and she has an extensive research record, primarily studying EBP in school libraries and computational thinking. Moore is the former Chair of AASL’s Community of Scholars and the current Chair of the International Association of School Librarianship’s Research Special Interest Group (SIG).
 
@@ -20,6 +20,10 @@ Dr. Moore is an Associate Professor at the School of Information Science at the 
 ### Christie Kodama, Ph.D.
 
 ### Nicole Wojcik
+
+<img align="left" src="/img/Wojcik_headshot_ProjectDVD.jpeg" alt="Wojcik headshot" width="20%"/>
+
+Nicole Wojcik is the School Library Fellow and current doctoral student at the School of Information Science at the University of South Carolina. Her research interests include critical cultural competency and the curricular role of young adult literature. Prior to her doctoral studies, she spent 12 years working as a secondary school librarian, IBDP subject teacher and Extended Essay Coordinator at international schools in Honduras and Panama.
 
 ***
 
