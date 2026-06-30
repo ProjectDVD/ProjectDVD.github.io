@@ -21,7 +21,7 @@ Dr. Moore is an Associate Professor at the School of Information Science at the 
 
 ### Nicole Wojcik
 
-<img align="left" src="/img/Wojcik_headshot_ProjectDVD.jpeg" alt="Wojcik headshot" width="20%"/>
+<img align="left" src="/img/Wojcik_headshot_ProjectDVD.jpeg" alt="Wojcik headshot" width="20%" height="80%"/>
 
 Nicole Wojcik is the School Library Fellow and current doctoral student at the School of Information Science at the University of South Carolina. Her research interests include critical cultural competency and the curricular role of young adult literature. Prior to her doctoral studies, she spent 12 years working as a secondary school librarian, IBDP subject teacher and Extended Essay Coordinator at international schools in Honduras and Panama.
 
