@@ -35,6 +35,8 @@ Nicole Wojcik is the School Library Fellow and current doctoral student at the S
 
 **Heidi Fendrick**
 
+Heidi has been dedicated to the library profession since 2009, with experience spanning public libraries, state libraries, and academic libraries. She currently serves as the Assessment Data Analyst at the University of Utah's J. Willard Marriott Library. Heidi has demonstrated leadership in the field through her role as Co-Chair of the Public Library Association's Measurement, Evaluation, and Assessment Committee and her current position as Chair of the Assessment Roundtable for the Utah Library Association. She is passionate about data-driven assessment within libraries to support impactful services and programs.
+
 **Sorrel Goodwin**
 
 Sorrel Goodwin is a descendent of the hereditary leadership of the Aak’w Kwáan Lingít L’eeneidí Yaxte Hít and the Ahtna Nation from Copper Center, AK. In addition to this, as a grandchild of Sheep Creek Mary James, the last traditional Matriarch of the Aak’w Kwáan L’eeneidí Yaxte Hít and her son James Watson (Yashkanda.ets’ his namesake), one of the founding members of the Alaska Native Brotherhood, he has received traditional training as a clan historian and is intimately aware of the heavy responsibilities that he has inherited. Sorrel is a trained Librarian, Archivist, and Museum Professional with over 29 years’ experience in these fields. He is a very active Northwest Coast Indigenous Ethno-Historian and has fought tirelessly for the inclusion of an NWC Indigenous Historiography in all of the institutions in which he has worked. Yashkanda.ets’ is currently the School and Tribal Library Coordinator for the Alaska State Library department of Library Development (since September 2022) and was a
