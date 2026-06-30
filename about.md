@@ -9,7 +9,7 @@ The Project DVD curriculum is the culmination of a multi-year IMLS grant project
 
 ## Project Team
 
-**Jennifer Moore, Ph.D.**
+### Jennifer Moore, Ph.D.
 
 <img align="left" src="/img/Moore_profile_pic_ProjectDVD.png" alt="Moore headshot" width="25%"/>
 
@@ -17,9 +17,9 @@ Dr. Moore is an Associate Professor at the School of Information Science at the 
 
 
 
-**Christie Kodama, Ph.D.**
+### Christie Kodama, Ph.D.
 
-**Nicole Wojcik**
+### Nicole Wojcik
 
 ***
 
