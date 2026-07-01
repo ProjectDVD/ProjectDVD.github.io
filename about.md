@@ -10,7 +10,7 @@ The Project DVD curriculum is the culmination of a multi-year IMLS grant project
 ## Project Team
 
 ##### Jennifer Moore, Ph.D.
-<hr style="border: none; border-top: 3px dotted gray;">
+<hr style="border: none; border-top: 3px dotted 329ea8;">
 <img align="left" src="/img/Moore_profile_pic_ProjectDVD.png" alt="Moore headshot" width="30%" style="margin-right: 10px; margin-top: 10px;"/>
 
 Dr. Moore is an Associate Professor at the School of Information Science at the University of South Carolina. She has 20 years of experience as a classroom teacher, school librarian, and school librarian educator. She has developed and/or revised multiple school librarian certification courses online, and she has an extensive research record, primarily studying EBP in school libraries and computational thinking. Moore is the former Chair of AASL’s Community of Scholars and the current Chair of the International Association of School Librarianship’s Research Special Interest Group (SIG).
