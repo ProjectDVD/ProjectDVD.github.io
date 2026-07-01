@@ -41,6 +41,8 @@ Nicole Wojcik is the School Library Fellow and current doctoral student at the S
 
 Heidi has been dedicated to the library profession since 2009, with experience spanning public libraries, state libraries, and academic libraries. She currently serves as the Assessment Data Analyst at the University of Utah's J. Willard Marriott Library. Heidi has demonstrated leadership in the field through her role as Co-Chair of the Public Library Association's Measurement, Evaluation, and Assessment Committee and her current position as Chair of the Assessment Roundtable for the Utah Library Association. She is passionate about data-driven assessment within libraries to support impactful services and programs.
 
+<br>
+
 ##### Sorrel Goodwin
 <hr style="border: none; border-top: 3px dotted gray;">
 <img align="left" src="/img/Goodwin_headshot_ProjectDVD.png" alt="Goodwin headshot" width="25%" style="margin-right: 10px; margin-top: 10px;"/>
@@ -48,17 +50,23 @@ Heidi has been dedicated to the library profession since 2009, with experience s
 Sorrel Goodwin is a descendent of the hereditary leadership of the Aak’w Kwáan Lingít L’eeneidí Yaxte Hít and the Ahtna Nation from Copper Center, AK. In addition to this, as a grandchild of Sheep Creek Mary James, the last traditional Matriarch of the Aak’w Kwáan L’eeneidí Yaxte Hít and her son James Watson (Yashkanda.ets’ his namesake), one of the founding members of the Alaska Native Brotherhood, he has received traditional training as a clan historian and is intimately aware of the heavy responsibilities that he has inherited. Sorrel is a trained Librarian, Archivist, and Museum Professional with over 29 years’ experience in these fields. He is a very active Northwest Coast Indigenous Ethno-Historian and has fought tirelessly for the inclusion of an NWC Indigenous Historiography in all of the institutions in which he has worked. Yashkanda.ets’ is currently the School and Tribal Library Coordinator for the Alaska State Library department of Library Development (since September 2022) and was a
 Senior Librarian in the Alaska State Library-Historical Collections Library for 10 years before taking on this new position (School and Tribal Library Coordinator) in the division.
 
+<br>
+
 ##### Lindsey Kimery
 <hr style="border: none; border-top: 3px dotted gray;">
 <img align="left" src="/img/Kimery_headshot_ProjectDVD.png" alt="Kimery headshot" width="25%" style="margin-right: 10px; margin-top: 10px;"/>
 
 Lindsey Kimery is the Coordinator of Library Services at Metro Nashville Public Schools in Nashville, Tennessee, She is a Library Journal Mover and Shaker and was president of TASL in 2021. She currently serves on the AASL Board of Directors, TASL Legislative Task Force, and the board of AASL Supervisors’ Section. She lives in Franklin, TN, with her sons.
 
+<br>
+
 ##### Steven Lockard, PhD
 <hr style="border: none; border-top: 3px dotted gray;">
 <img align="left" src="/img/Lockard_headshot_ProjectDVD.jpg" alt="Lockard headshot" width="25%" style="margin-right: 10px; margin-top: 10px;"/>
 
 Dr. Steven Lockard has over 30 years of experience in public education including Superintendent of Schools in Carroll County, MD (2014-2018), Interim Superintendent of Fairfax (VA) County Public Schools (2016-2017), Deputy Superintendent of Fairfax County Public Schools, VA (2014-16, 2018) and Deputy Superintendent of Frederick County Public Schools, MD (2012-2014), with specific expertise in strategic planning, instruction, assessment, budgeting, community relations and communication, and school and organizational leadership. After almost two decades in systemic senior leadership roles, Dr. Lockard made the decision to return to his roots and reconnect with the most important work there is next to a teacher. He currently serves as principal of a Maryland rated "5-Star" school in Frederick County, MD, where he was a past Washington Post Distinguished Principal Award Winner.
+
+<br>
 
 ##### Megan Oakleaf, MLS, PhD
 <hr style="border: none; border-top: 3px dotted gray;">
