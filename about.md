@@ -20,7 +20,7 @@ Dr. Moore is an Associate Professor at the School of Information Science at the 
 ##### Christie Kodama, Ph.D.
 <img align="left" src="/img/Kodama_headshot_ProjectDVD.jpg" alt="Kodama headshot" width="20%" style="margin-right: 10px;"/>
 
-Dr. Kodama is an LIS scholar with 14 years of experience in the field of school librarianship. She has worked as a school librarian and school librarian educator. She has experience and expertise in instructional design/curriculum development, online learning, adult learning, and professional development for school librarians. Prior to her work in school librarianship, she was an elementary school classroom teacher and taught English to students in South Korea.
+Dr. Kodama is an LIS scholar with 14 years of experience in the field of school librarianship. She has worked as a school librarian and school librarian educator. She has experience and expertise in instructional design/curriculum development, online learning, adult learning, and professional development for school librarians. Prior to her work in school librarianship, she was an elementary school classroom teacher and taught English to K-12 students in South Korea.
 
 ##### Nicole Wojcik
 <img align="left" src="/img/Wojcik_headshot_ProjectDVD.jpeg" alt="Wojcik headshot" width="20%" style="margin-right: 10px;"/>
