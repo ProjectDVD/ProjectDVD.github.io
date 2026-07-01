@@ -10,20 +10,20 @@ The Project DVD curriculum is the culmination of a multi-year IMLS grant project
 ## Project Team
 
 ##### Jennifer Moore, Ph.D.
-<hr style="border: none; border-top: 1px dotted gray;">
-<img align="left" src="/img/Moore_profile_pic_ProjectDVD.png" alt="Moore headshot" width="20%" style="margin-right: 10px; margin-top: 10px;"/>
+<hr style="border: none; border-top: 3px dotted gray;">
+<img align="left" src="/img/Moore_profile_pic_ProjectDVD.png" alt="Moore headshot" width="30%" style="margin-right: 10px; margin-top: 10px;"/>
 
 Dr. Moore is an Associate Professor at the School of Information Science at the University of South Carolina. She has 20 years of experience as a classroom teacher, school librarian, and school librarian educator. She has developed and/or revised multiple school librarian certification courses online, and she has an extensive research record, primarily studying EBP in school libraries and computational thinking. Moore is the former Chair of AASL’s Community of Scholars and the current Chair of the International Association of School Librarianship’s Research Special Interest Group (SIG).
 
 
 
 ##### Christie Kodama, Ph.D.
-<img align="left" src="/img/Kodama_headshot_ProjectDVD.jpg" alt="Kodama headshot" width="20%" style="margin-right: 10px;"/>
+<img align="left" src="/img/Kodama_headshot_ProjectDVD.jpg" alt="Kodama headshot" width="30%" style="margin-right: 10px; margin-top: 10px;"/>
 
 Dr. Kodama is an LIS scholar with 14 years of experience in the field of school librarianship. She has worked as a school librarian and school librarian educator. She has experience and expertise in instructional design/curriculum development, online learning, adult learning, and professional development for school librarians. Prior to her work in school librarianship, she was an elementary school classroom teacher and taught English to K-12 students in South Korea.
 
 ##### Nicole Wojcik
-<img align="left" src="/img/Wojcik_headshot_ProjectDVD.jpeg" alt="Wojcik headshot" width="20%" style="margin-right: 10px;"/>
+<img align="left" src="/img/Wojcik_headshot_ProjectDVD.jpeg" alt="Wojcik headshot" width="30%" style="margin-right: 10px; margin-top: 10px;"/>
 
 Nicole Wojcik is the School Library Fellow and current doctoral student at the School of Information Science at the University of South Carolina. Her research interests include critical cultural competency and the curricular role of young adult literature. Prior to her doctoral studies, she spent 12 years working as a secondary school librarian, IBDP subject teacher and Extended Essay Coordinator at international schools in Honduras and Panama.
 
