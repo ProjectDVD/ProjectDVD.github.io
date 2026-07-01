@@ -60,7 +60,7 @@ Lindsey Kimery is the Coordinator of Library Services at Metro Nashville Public 
 
 <br>
 
-##### Steven Lockard, PhD
+##### Steven Lockard, Ph.D.
 <hr style="border: none; border-top: 3px dotted gray;">
 <img align="left" src="/img/Lockard_headshot_ProjectDVD.jpg" alt="Lockard headshot" width="25%" style="margin-right: 10px; margin-top: 10px;"/>
 
@@ -68,7 +68,7 @@ Dr. Steven Lockard has over 30 years of experience in public education including
 
 <br>
 
-##### Megan Oakleaf, MLS, PhD
+##### Megan Oakleaf, MLS, Ph.D.
 <hr style="border: none; border-top: 3px dotted gray;">
 <img align="left" src="/img/Oakleaf_headshot_ProjectDVD_3-605x1024.jpg" alt="Oakleaf headshot" width="25%" style="margin-right: 10px;"/>
 
