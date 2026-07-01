@@ -59,6 +59,7 @@ Senior Librarian in the Alaska State Library-Historical Collections Library for 
 Lindsey Kimery is the Coordinator of Library Services at Metro Nashville Public Schools in Nashville, Tennessee, She is a Library Journal Mover and Shaker and was president of TASL in 2021. She currently serves on the AASL Board of Directors, TASL Legislative Task Force, and the board of AASL Supervisors’ Section. She lives in Franklin, TN, with her sons.
 
 <br>
+<br>
 
 ##### Steven Lockard, Ph.D.
 <hr style="border: none; border-top: 3px dotted gray;">
