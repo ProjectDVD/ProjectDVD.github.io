@@ -1,5 +1,5 @@
 ---
-title: Learn
+title: Learn: Part 1
 ---
 ### Module 3: Analyzing Data & interpeting Findings
 #### Analyzing Quantitative Data
