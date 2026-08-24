@@ -9,7 +9,7 @@ To effectively communicate evidence of your practice, it is useful to understand
 2. Your message and what it is you actually want to say about the library program
 3. Which communication technique would best serve in telling a story with your data/evidence
 
-#### Part 1: YOUR AUDIENCE - WITH WHOM ARE YOU COMMUNICATING?
+#### PART 1: YOUR AUDIENCE - WITH WHOM ARE YOU COMMUNICATING?
 
 Communication has been a formal academic field for about 100 years, with roots in rhetoric led by thinkers such as Aristotle and Plato. From all the research done in this field, there is a general understanding that humans do not all communicate in the same way. Many factors contribute to how we communicate with others: our cultural background, family history, and individual personalities, to name a few. When it comes to communicating in a work environment, Williams and Miller (2013) posit that “people frequently use a one-size-fits-all approach when trying to convince their bosses, peers, and staff” (p. 6) rather than tailoring their communication and using language that speaks powerfully to the unique people they are trying to persuade. [In a 2022 interview on the Think Fast, Talk Smart podcast](https://www.fastersmarter.io/54-leadership-and-ethics-how-to-communicate-your-core-values/), Ken Shotts, a political science professor at Stanford University, noted that the best communication advice he has learned is to always remember that “your audience is not yourself.” Their motives, values, opinions, likes, and dislikes are different from your own. Therefore, if you want to influence others’ behavior, you need to understand what they care about and what motivates them.
 
