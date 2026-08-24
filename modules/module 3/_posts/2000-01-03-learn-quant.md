@@ -2,7 +2,7 @@
 title: Learn-Part 1
 ---
 ### Module 3: Analyzing Data & interpeting Findings
-#### Analyzing Quantitative Data
+#### Part 1: Analyzing Quantitative Data
 *Suggested time: ## minutes*
 
 Because quantitative research focuses on numerical data, you use statistical means to analyze the data you collected. The two most frequent types of statistical analyses are **descriptive statistics** and **inferential statistics**. Descriptive statistics, as the name suggests, describe or summarize characteristics of a dataset. Inferential statistics focus on predictions, relationships, and drawing conclusions. While you can certainly use both to analyze the data you collect (either together or independently), typically you will only be using descriptive statistics in your everyday practice. The most common types of descriptive statistics include frequency distribution, measures of central tendency, and measures of variability. 
