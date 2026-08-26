@@ -54,10 +54,10 @@ For example, a librarian surveys 200 5th grade students about their favorite lib
 
 Finally, we have **measures of variability**, which include **range**, **variance**, and **standard deviation**. In the library setting, you will typically only work with range, which is found by subtracting the lowest value from the highest value. Range helps show how much difference exists within the data set and can reveal whether experiences, behaviors, or outcomes are fairly consistent or highly varied. A librarian might want to calculate the range for technology usage within and across grade levels. You would track the number of times each class uses the library databases in a month. Calculating the range will reveal whether database use is fairly even across grade levels or whether some classes are using the resources far more frequently than others. It is rare that you would calculate the variance and standard deviation. If you would like to learn more about these two measures of variability, please visit the “Explore More” subsection in this module. 
 
-**WATCH** [Grad Coach Descriptive Statistics: Full Tutorial - Mean, Median, Mode, Variance & SD (With Examples)](url) to learn more about descriptive statistics and to see quantitative analysis in action [13:24 minutes]
+**WATCH** [Grad Coach Descriptive Statistics: Full Tutorial - Mean, Median, Mode, Variance & SD (With Examples)](url){:target="_blank"} to learn more about descriptive statistics and to see quantitative analysis in action [13:24 minutes]
 
 ##### Quantitative Analysis Tools
-The above examples provide smaller sample sets than a librarian typically encounters. More often than not, you will be working with more than 10 numbers at a time. There are tools you can use to assist with analyzing quantitative data. The two most easily accessible tools include Microsoft Excel and Google Sheets, both of which are spreadsheets. Both Microsoft and Google offer instructions for how to perform basic analysis functions in [Excel](url) and [Sheets](url), respectively. Other tools performing basic and more complicated functions (but also come at a cost) include, but are not limited to:  
+The above examples provide smaller sample sets than a librarian typically encounters. More often than not, you will be working with more than 10 numbers at a time. There are tools you can use to assist with analyzing quantitative data. The two most easily accessible tools include Microsoft Excel and Google Sheets, both of which are spreadsheets. Both Microsoft and Google offer instructions for how to perform basic analysis functions in [Excel](url){:target="_blank"} and [Sheets](url){:target="_blank"}, respectively. Other tools performing basic and more complicated functions (but also come at a cost) include, but are not limited to:  
 * SPSS
 * JMP
 * Minitab Statistical Software
@@ -70,13 +70,13 @@ You may be wondering about using an AI program to analyze your quantitative data
 #### Analyzing Qualitative Data
 When working with non-numerical data, such as open-ended survey questions or interviews, you will want to use qualitative data analysis methods. In the world of scholarly research, there are multiple ways to analyze qualitative data. In EBP, we tend to use coding. Coding is the process of assigning a name or label (i.e., a code) to a block of text - in a way, summarizing what was said, such as a teacher’s response to a survey question about why they have not collaborated with the librarian. 
 
-**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url) to learn more about codes and coding  [00:00 - 7:46 minutes]
+**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"} to learn more about codes and coding  [00:00 - 7:46 minutes]
 
 There are two types of coding commonly used in EBP: in vivo coding and descriptive coding.  In vivo coding is when you assign a code, or label, using the exact language from someone’s response. Descriptive coding is when you assign a code, or label, with a word or short phrase describing what was said; it is also a popular choice when coding photographs or videos. Note that there are other types of coding you could use, but more often than not, in vivo coding and descriptive coding are best suited for your tasks.  
 
-**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url) to learn more about in vivo coding [10:46 - 12:23 minutes]
+**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"} to learn more about in vivo coding [10:46 - 12:23 minutes]
 
-**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url) to learn more about descriptive coding [13:48 - 14:46 minutes]
+**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"} to learn more about descriptive coding [13:48 - 14:46 minutes]
 
 For example, a group of school librarians were asked “How do you share evidence with your principal?” One librarian responded with:
 >“I also share data out through infographics and announcements, Our principal is awesome. She's always talking about the data. I'll send it to her in just informal ways, and she'll share with others. I also post things on my school library’s TikTok and Instagram accounts, just sharing that information, pulling circ stats.”
@@ -200,7 +200,7 @@ However, stronger evidence for causation can be established when you, the librar
 
 Although it may not always be possible to definitively prove causation, it is still important to document efforts toward improvement and communicate results to stakeholders. Librarians should share evidence demonstrating how programs, services, or interventions align with established goals and contribute to student learning or engagement. For example, a librarian might report that students participating in the book club showed increased reading motivation, checked out more books, and demonstrated higher fluency gains compared to nonparticipants. Similarly, a library makerspace program may not be solely responsible for improved problem-solving skills, but student reflections, teacher observations, and increased engagement data may provide evidence that the program positively supported student learning experiences.
 
-**WATCH** [Sprouts Correlation vs Causation Explained: Why Patterns Can Mislead Us](url) to learn more about causation and correlation  [00:00 - 4:50 minutes]
+**WATCH** [Sprouts Correlation vs Causation Explained: Why Patterns Can Mislead Us](url){:target="_blank"} to learn more about causation and correlation  [00:00 - 4:50 minutes]
 
 ***
 
@@ -208,25 +208,25 @@ Although it may not always be possible to definitively prove causation, it is st
 Check out these resources for additional information about data analysis and interpreting findings.
 
 ##### Websites:
-* [Rice Virtual Lab in Statistics](url)
-* [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](url)
+* [Rice Virtual Lab in Statistics](url){:target="_blank"}
+* [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](url){:target="_blank"}
 
 ##### Videos: 
-* [Dr. Rakesh Maurya. Qualitative Data Analysis: Descriptive Coding Method](url)
-* [Dr. Rakesh Maurya. Qualitative Data Analysis: In-Vivo Coding Method](url)
-* [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url)
-* [Grad Coach. Inferential Statistics FULL Tutorial: T-Test, ANOVA, Chi-Square, Correlation & Regression Analysis](url)
+* [Dr. Rakesh Maurya. Qualitative Data Analysis: Descriptive Coding Method](url){:target="_blank"}
+* [Dr. Rakesh Maurya. Qualitative Data Analysis: In-Vivo Coding Method](url){:target="_blank"}
+* [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"}
+* [Grad Coach. Inferential Statistics FULL Tutorial: T-Test, ANOVA, Chi-Square, Correlation & Regression Analysis](url){:target="_blank"}
 
 ##### Quantitative Data Analysis Tools
 A multitude of quantitative data analysis tools exist. Most require purchasing or a subscription fee. Please visit each program’s website to determine which program might best meet your needs.
-* [IBM SPSS Statistics](url): IBM describes this product as “a comprehensive statistical analysis platform designed to help organizations and individuals extract reliable insights from data. It combines robust statistical testing, predictive modeling, regression, and forecasting with streamlined data preparation and automated analysis” (May 2026). 
-* [JMP](url): JMP describes their software as “empower[ing] users to explore and analyze data visually, solve critical problems, and then share those insights to make stronger data-driven decisions” (May 2026).
-* [Minitab Statistical Software](url): Minitab describes their software as being able to “look at current and past data to discover trends, find and predict patterns, uncover hidden relationships between variables, and create stunning visualizations to tackle even the most daunting challenges and opportunities” (May 2026).
-* [SYSTAT](url): Graffiti LLC describes SigmaPlotng as “a powerful and intuitive statistical data analysis tool meticulously designed to meet the needs of undergraduate students. It provides a focused suite of robust functionalities that enable students to effectively perform essential statistical analysis and data interpretation tasks within an educational setting” (May 2026).
+* [IBM SPSS Statistics](url){:target="_blank"}: IBM describes this product as “a comprehensive statistical analysis platform designed to help organizations and individuals extract reliable insights from data. It combines robust statistical testing, predictive modeling, regression, and forecasting with streamlined data preparation and automated analysis” (May 2026). 
+* [JMP](url){:target="_blank"}: JMP describes their software as “empower[ing] users to explore and analyze data visually, solve critical problems, and then share those insights to make stronger data-driven decisions” (May 2026).
+* [Minitab Statistical Software](url){:target="_blank"}: Minitab describes their software as being able to “look at current and past data to discover trends, find and predict patterns, uncover hidden relationships between variables, and create stunning visualizations to tackle even the most daunting challenges and opportunities” (May 2026).
+* [SYSTAT](url){:target="_blank"}: Graffiti LLC describes SigmaPlotng as “a powerful and intuitive statistical data analysis tool meticulously designed to meet the needs of undergraduate students. It provides a focused suite of robust functionalities that enable students to effectively perform essential statistical analysis and data interpretation tasks within an educational setting” (May 2026).
 
 ##### Qualitative Data Analysis Tools
 Multiple quantitative data analysis tools exist. Some require purchasing or a subscription fee, while others offer free options. Please visit each program’s website to determine which program might best meet your needs.
-* [NVivo](url): Lumivero describes NVivo as “easy-to-use, collaborative qualitative analysis software that allows researchers to import, organize, explore, connect and collaborate on their data to reveal more significant insights from their qualitative data faster.”
-* [Dedoose](url): Dedoose describes their software as “a powerful, cloud-based application used to analyze and visualize qualitative and mixed methods data. Use Dedoose to analyze interviews, focus groups, photos, video, audio, survey data, and more in collaborative, innovative ways!”
-* [Delve](url): Delve describes their program as “intuitive AI assisted qualitative analysis software that helps you find rigorous insights without the steep learning curve—no shortcuts, just efficient, collaborative research.” 
-* [Taguette](url): Baguette describes their program as “a free and open-source qualitative research tool (which works on all operating systems!) that allows users to: Import PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). Highlight words, sentences, or paragraphs and tag them with the codes you create. Work collaboratively with other users.” 
+* [NVivo](url){:target="_blank"}: Lumivero describes NVivo as “easy-to-use, collaborative qualitative analysis software that allows researchers to import, organize, explore, connect and collaborate on their data to reveal more significant insights from their qualitative data faster.”
+* [Dedoose](url){:target="_blank"}: Dedoose describes their software as “a powerful, cloud-based application used to analyze and visualize qualitative and mixed methods data. Use Dedoose to analyze interviews, focus groups, photos, video, audio, survey data, and more in collaborative, innovative ways!”
+* [Delve](url){:target="_blank"}: Delve describes their program as “intuitive AI assisted qualitative analysis software that helps you find rigorous insights without the steep learning curve—no shortcuts, just efficient, collaborative research.” 
+* [Taguette](url){:target="_blank"}: Baguette describes their program as “a free and open-source qualitative research tool (which works on all operating systems!) that allows users to: Import PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). Highlight words, sentences, or paragraphs and tag them with the codes you create. Work collaboratively with other users.” 
