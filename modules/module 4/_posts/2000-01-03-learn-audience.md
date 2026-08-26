@@ -11,13 +11,13 @@ To effectively communicate evidence of your practice, it is useful to understand
 
 #### PART 1: YOUR AUDIENCE - WITH WHOM ARE YOU COMMUNICATING?
 
-Communication has been a formal academic field for about 100 years, with roots in rhetoric led by thinkers such as Aristotle and Plato. From all the research done in this field, there is a general understanding that humans do not all communicate in the same way. Many factors contribute to how we communicate with others: our cultural background, family history, and individual personalities, to name a few. When it comes to communicating in a work environment, Williams and Miller (2013) posit that “people frequently use a one-size-fits-all approach when trying to convince their bosses, peers, and staff” (p. 6) rather than tailoring their communication and using language that speaks powerfully to the unique people they are trying to persuade. [In a 2022 interview on the Think Fast, Talk Smart podcast](https://www.fastersmarter.io/54-leadership-and-ethics-how-to-communicate-your-core-values/), Ken Shotts, a political science professor at Stanford University, noted that the best communication advice he has learned is to always remember that “your audience is not yourself.” Their motives, values, opinions, likes, and dislikes are different from your own. Therefore, if you want to influence others’ behavior, you need to understand what they care about and what motivates them.
+Communication has been a formal academic field for about 100 years, with roots in rhetoric led by thinkers such as Aristotle and Plato. From all the research done in this field, there is a general understanding that humans do not all communicate in the same way. Many factors contribute to how we communicate with others: our cultural background, family history, and individual personalities, to name a few. When it comes to communicating in a work environment, Williams and Miller (2013) posit that “people frequently use a one-size-fits-all approach when trying to convince their bosses, peers, and staff” (p. 6) rather than tailoring their communication and using language that speaks powerfully to the unique people they are trying to persuade. [In a 2022 interview on the Think Fast, Talk Smart podcast](https://www.fastersmarter.io/54-leadership-and-ethics-how-to-communicate-your-core-values/){:target="_blank"}, Ken Shotts, a political science professor at Stanford University, noted that the best communication advice he has learned is to always remember that “your audience is not yourself.” Their motives, values, opinions, likes, and dislikes are different from your own. Therefore, if you want to influence others’ behavior, you need to understand what they care about and what motivates them.
 
 Much of the advice on communicating and presenting to others has one common thread: **know your audience**.
 
-**<u>WATCH</u>** [this video from Nutshell Brainery](https://www.youtube.com/watch?v=qFSXkIZ99ro) [9:35 minutes] to learn the aspects of your audience that you need to know about before communicating with them.
+**<u>WATCH</u>** [this video from Nutshell Brainery](https://www.youtube.com/watch?v=qFSXkIZ99ro){:target="_blank"} [9:35 minutes] to learn the aspects of your audience that you need to know about before communicating with them.
 
-**<u>FILL OUT</u>** the first two columns in the chart below. (You may also download and print a [PDF](https://drive.google.com/file/d/1IXhn5ENQl5OfaZv3_mxzGjCvIdcZd83m/view?usp=share_link) version of this chart to work offline.) Consider the following:
+**<u>FILL OUT</u>** the first two columns in the chart below. (You may also download and print a [PDF](https://drive.google.com/file/d/1IXhn5ENQl5OfaZv3_mxzGjCvIdcZd83m/view?usp=share_link){:target="_blank"} version of this chart to work offline.) Consider the following:
 * Who are the people you want to communicate with about the school library? It could be a specific person (e.g., your principal) or a group of people (e.g., Grade 3-5 parents). List their names (and positions) in the **<u>first column of the chart</u>**.
 * After listing the different audiences you want to communicate with, choose ONE person or audience you would like to focus on for this module (or more if you’re feeling ambitious!). What are the demographics and psychographics that describe this audience? List as much as you know about this particular audience in the **<u>second column</u>** of the chart.
 
@@ -27,7 +27,7 @@ Much of the advice on communicating and presenting to others has one common thre
 |--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | ex. Principal (Morgan Freeman) | ex.<br>- 45 years old<br>- From [state]; type of community<br>- Educator for 25 years<br>- Rules are important to him<br>- Wants to connect with students to make them feel seen and heard |                                                    |
 
-**<u>WATCH</u>** [this video from Nutshell Brainery](https://www.youtube.com/watch?v=5F5L-tNi334) [5:49 minutes] to learn about another important aspect of communicating with your audience: context.
+**<u>WATCH</u>** [this video from Nutshell Brainery](https://www.youtube.com/watch?v=5F5L-tNi334){:target="_blank"} [5:49 minutes] to learn about another important aspect of communicating with your audience: context.
 
 **<u>FILL OUT</u>** the **<u>third column</u>** in the chart you created with all the various types of context(s) in which you find yourself communicating with your specific audience. In what situations do you communicate with this audience (e.g., formal one-to-one meetings, in the hallway while walking to school events, through emails and other online methods, etc.)?
 
@@ -41,9 +41,9 @@ We hope the data analysis and interpretation you did in Module 3 provided eviden
 
 What is the message you want to communicate with your audience? The message you want to share ideally includes the *<u>value</u>* of the school library program, rather than simply information or the *<u>features</u>* about the library or a specific library program you want to promote. “What is the **ONE CORE IDEA** you want others to know about the school library?” and “What is the **LASTING IMPRESSION** you want people to have about the library program after visiting it or speaking with you about it?” are questions to ask yourself to get to the heart of the library’s value and importance to the school community. It is only after you are able to articulate the core idea or message that you can begin to incorporate the data you’ve collected and analyzed into the overall message you want to share about the school library program.
 
-> [!NOTE] Use the [Minto Pyramid](https://untools.co/minto-pyramid/) as a way to formulate your message to your desired audience.
+> [!NOTE] Use the [Minto Pyramid](https://untools.co/minto-pyramid/){:target="_blank"} as a way to formulate your message to your desired audience.
 
-**<u>READ</u>** [this article from the Thunderbird School of Global Management at Arizona State University](https://thunderbird.asu.edu/thought-leadership/insights/value-creation-how-communicate-value). Think about the school library program as the “product or service” and the teachers, students, parents, administrators as “the customers.”
+**<u>READ</u>** [this article from the Thunderbird School of Global Management at Arizona State University](https://thunderbird.asu.edu/thought-leadership/insights/value-creation-how-communicate-value){:target="_blank"}. Think about the school library program as the “product or service” and the teachers, students, parents, administrators as “the customers.”
 
 **<u>REFLECT</u>**
 Spend some time considering the answers to the following questions:
@@ -51,7 +51,7 @@ Spend some time considering the answers to the following questions:
 * What is the **<u>MAIN THING</u>** you want others to know about the school library program? Be as specific as possible and focus on what’s in it for them (i.e. fulfilling a need).
 * Now, connect the main benefit of the library to what your chosen audience cares about the most. What is **<u>ONE THING</u>** your audience cares deeply about?
 
-> [!NOTE] Do you have quantitative data you want to share with your stakeholders? Try visualizing with [social math](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/bul2.2016.1720420507)! This [blog post](https://www.bmsg.org/using-social-math-to-support-your-policy-issue/) also has some good examples of social math to get your wheels turning.
+> [!NOTE] Do you have quantitative data you want to share with your stakeholders? Try visualizing with [social math](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/bul2.2016.1720420507){:target="_blank"}! This [blog post](https://www.bmsg.org/using-social-math-to-support-your-policy-issue/){:target="_blank"} also has some good examples of social math to get your wheels turning.
 
 #### YOUR METHOD: HOW ARE YOU COMMUNICATING?
 
@@ -80,11 +80,11 @@ Much of what we know about communication comes from a business perspective. Here
 
 * Harvard Business Review. (2013). _HBR’s 10 Must Reads: On Communication._ Boston, MA: Harvard Business Review Press.
 
-* The [Think Fast, Talk Smart Podcast](https://www.fastersmarter.io) has some great episodes on effective communication from leaders in business. Hosted by Stanford Graduate School of Business professor, Matt Abrahams, the ideas shared by Matt and his guests are excellent food for thought as you consider how you might communicate with your stakeholders. Below are a few stand out episodes.
-  * [Ep. 25: Quick Thinks: All Effective Communication Must Start With This](https://www.fastersmarter.io/25-quick-thinks-all-effective-communication-must-start-with-this/) [6:45 minutes]
-  * [Ep. 49: Make Numbers Count: How to Communicate Data Effectively](https://www.fastersmarter.io/49-make-numbers-count-how-to-communicate-data-effectively/) (interview with Chip Heath) [17:02 minutes]
-  * [Ep. 185: Say Less, Mean More: Craft Compelling Communication](https://www.fastersmarter.io/185-say-less-mean-more-craft-compelling-communication/) (interview with Guy Kawasaki) [22:05 minutes]
-  * [Ep. 189: Numbers Need Narrative: Use Data to Influence and Inspire](https://www.fastersmarter.io/189-numbers-need-narrative-use-data-to-influence-and-inspire/) (interview with Miro Kazakoff) [start at minute 0:56] [20:00 minutes]
+* The [Think Fast, Talk Smart Podcast](https://www.fastersmarter.io){:target="_blank"} has some great episodes on effective communication from leaders in business. Hosted by Stanford Graduate School of Business professor, Matt Abrahams, the ideas shared by Matt and his guests are excellent food for thought as you consider how you might communicate with your stakeholders. Below are a few stand out episodes.
+  * [Ep. 25: Quick Thinks: All Effective Communication Must Start With This](https://www.fastersmarter.io/25-quick-thinks-all-effective-communication-must-start-with-this/){:target="_blank"} [6:45 minutes]
+  * [Ep. 49: Make Numbers Count: How to Communicate Data Effectively](https://www.fastersmarter.io/49-make-numbers-count-how-to-communicate-data-effectively/){:target="_blank"} (interview with Chip Heath) [17:02 minutes]
+  * [Ep. 185: Say Less, Mean More: Craft Compelling Communication](https://www.fastersmarter.io/185-say-less-mean-more-craft-compelling-communication/){:target="_blank"} (interview with Guy Kawasaki) [22:05 minutes]
+  * [Ep. 189: Numbers Need Narrative: Use Data to Influence and Inspire](https://www.fastersmarter.io/189-numbers-need-narrative-use-data-to-influence-and-inspire/){:target="_blank"} (interview with Miro Kazakoff) [start at minute 0:56] [20:00 minutes]
 * If you are going to present to others, check out the following:
-  * ["How to Tell Your Story for Impact" (2011) by Theresa Johnston](https://www.gsb.stanford.edu/insights/how-tell-your-story-impact)
-  * [Nancy Duarte's TED Talk (2011), "The secret structure of great talks"](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?kuid=7c11fd05-56aa-4de1-b56e-af7fd8b4aebc-1740441600&kref=l5xPWhf61DYf) [18:00 minutes]
+  * ["How to Tell Your Story for Impact" (2011) by Theresa Johnston](https://www.gsb.stanford.edu/insights/how-tell-your-story-impact){:target="_blank"}
+  * [Nancy Duarte's TED Talk (2011), "The secret structure of great talks"](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?kuid=7c11fd05-56aa-4de1-b56e-af7fd8b4aebc-1740441600&kref=l5xPWhf61DYf){:target="_blank"} [18:00 minutes]
