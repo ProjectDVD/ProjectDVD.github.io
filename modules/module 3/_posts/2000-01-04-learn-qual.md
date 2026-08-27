@@ -95,3 +95,29 @@ Additional information about these tools can be found in the “Explore More” 
 You may be wondering about using an AI program to analyze your qualitative data. Just like with quantitative data analysis, we warn against using AI programs to do this. Why? As previously mentioned, AI programs are large-language models that use existing data to make predictions based on the existing data in their systems. While AI programs can identify patterns in blocks of text, they lack the ability to think critically and to notice the nuances in human responses. Additionally, there are ethical and privacy concerns when uploading data into an AI program, particularly when copying/pasting human responses into a system where the data is not securely stored. Additionally, AI systems are notorious for both being biased and for reinforcing biased views. Note that some of the above programs do integrate AI into their software; however, the tools, with AI integration, are specifically designed to help you analyze your qualitative data. 
 
 ***
+#### Explore More
+Check out these resources for additional information about data analysis and interpreting findings.
+
+##### Websites:
+* [Rice Virtual Lab in Statistics](url){:target="_blank"}
+* [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](url){:target="_blank"}
+
+##### Videos: 
+* [Dr. Rakesh Maurya. Qualitative Data Analysis: Descriptive Coding Method](url){:target="_blank"}
+* [Dr. Rakesh Maurya. Qualitative Data Analysis: In-Vivo Coding Method](url){:target="_blank"}
+* [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"}
+* [Grad Coach. Inferential Statistics FULL Tutorial: T-Test, ANOVA, Chi-Square, Correlation & Regression Analysis](url){:target="_blank"}
+
+##### Quantitative Data Analysis Tools
+A multitude of quantitative data analysis tools exist. Most require purchasing or a subscription fee. Please visit each program’s website to determine which program might best meet your needs.
+* [IBM SPSS Statistics](url){:target="_blank"}: IBM describes this product as “a comprehensive statistical analysis platform designed to help organizations and individuals extract reliable insights from data. It combines robust statistical testing, predictive modeling, regression, and forecasting with streamlined data preparation and automated analysis” (May 2026). 
+* [JMP](url){:target="_blank"}: JMP describes their software as “empower[ing] users to explore and analyze data visually, solve critical problems, and then share those insights to make stronger data-driven decisions” (May 2026).
+* [Minitab Statistical Software](url){:target="_blank"}: Minitab describes their software as being able to “look at current and past data to discover trends, find and predict patterns, uncover hidden relationships between variables, and create stunning visualizations to tackle even the most daunting challenges and opportunities” (May 2026).
+* [SYSTAT](url){:target="_blank"}: Graffiti LLC describes SigmaPlotng as “a powerful and intuitive statistical data analysis tool meticulously designed to meet the needs of undergraduate students. It provides a focused suite of robust functionalities that enable students to effectively perform essential statistical analysis and data interpretation tasks within an educational setting” (May 2026).
+
+##### Qualitative Data Analysis Tools
+Multiple quantitative data analysis tools exist. Some require purchasing or a subscription fee, while others offer free options. Please visit each program’s website to determine which program might best meet your needs.
+* [NVivo](url){:target="_blank"}: Lumivero describes NVivo as “easy-to-use, collaborative qualitative analysis software that allows researchers to import, organize, explore, connect and collaborate on their data to reveal more significant insights from their qualitative data faster.”
+* [Dedoose](url){:target="_blank"}: Dedoose describes their software as “a powerful, cloud-based application used to analyze and visualize qualitative and mixed methods data. Use Dedoose to analyze interviews, focus groups, photos, video, audio, survey data, and more in collaborative, innovative ways!”
+* [Delve](url){:target="_blank"}: Delve describes their program as “intuitive AI assisted qualitative analysis software that helps you find rigorous insights without the steep learning curve—no shortcuts, just efficient, collaborative research.” 
+* [Taguette](url){:target="_blank"}: Baguette describes their program as “a free and open-source qualitative research tool (which works on all operating systems!) that allows users to: Import PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). Highlight words, sentences, or paragraphs and tag them with the codes you create. Work collaboratively with other users.” 
