@@ -93,3 +93,5 @@ Additional information about these tools can be found in the “Explore More” 
 
 > [!NOTE]
 You may be wondering about using an AI program to analyze your qualitative data. Just like with quantitative data analysis, we warn against using AI programs to do this. Why? As previously mentioned, AI programs are large-language models that use existing data to make predictions based on the existing data in their systems. While AI programs can identify patterns in blocks of text, they lack the ability to think critically and to notice the nuances in human responses. Additionally, there are ethical and privacy concerns when uploading data into an AI program, particularly when copying/pasting human responses into a system where the data is not securely stored. Additionally, AI systems are notorious for both being biased and for reinforcing biased views. Note that some of the above programs do integrate AI into their software; however, the tools, with AI integration, are specifically designed to help you analyze your qualitative data. 
+
+***
