@@ -106,14 +106,6 @@ Check out these resources for additional information about data analysis and int
 * [Dr. Rakesh Maurya. Qualitative Data Analysis: Descriptive Coding Method](url){:target="_blank"}
 * [Dr. Rakesh Maurya. Qualitative Data Analysis: In-Vivo Coding Method](url){:target="_blank"}
 * [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"}
-* [Grad Coach. Inferential Statistics FULL Tutorial: T-Test, ANOVA, Chi-Square, Correlation & Regression Analysis](url){:target="_blank"}
-
-##### Quantitative Data Analysis Tools
-A multitude of quantitative data analysis tools exist. Most require purchasing or a subscription fee. Please visit each program’s website to determine which program might best meet your needs.
-* [IBM SPSS Statistics](url){:target="_blank"}: IBM describes this product as “a comprehensive statistical analysis platform designed to help organizations and individuals extract reliable insights from data. It combines robust statistical testing, predictive modeling, regression, and forecasting with streamlined data preparation and automated analysis” (May 2026). 
-* [JMP](url){:target="_blank"}: JMP describes their software as “empower[ing] users to explore and analyze data visually, solve critical problems, and then share those insights to make stronger data-driven decisions” (May 2026).
-* [Minitab Statistical Software](url){:target="_blank"}: Minitab describes their software as being able to “look at current and past data to discover trends, find and predict patterns, uncover hidden relationships between variables, and create stunning visualizations to tackle even the most daunting challenges and opportunities” (May 2026).
-* [SYSTAT](url){:target="_blank"}: Graffiti LLC describes SigmaPlotng as “a powerful and intuitive statistical data analysis tool meticulously designed to meet the needs of undergraduate students. It provides a focused suite of robust functionalities that enable students to effectively perform essential statistical analysis and data interpretation tasks within an educational setting” (May 2026).
 
 ##### Qualitative Data Analysis Tools
 Multiple quantitative data analysis tools exist. Some require purchasing or a subscription fee, while others offer free options. Please visit each program’s website to determine which program might best meet your needs.
