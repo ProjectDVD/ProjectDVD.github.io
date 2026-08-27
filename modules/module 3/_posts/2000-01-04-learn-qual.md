@@ -5,7 +5,6 @@ title: Learn-Part 2
 #### Part 2: Analyzing Qualitative Data
 *Suggested time: ## minutes*
 
-#### Analyzing Qualitative Data
 When working with non-numerical data, such as open-ended survey questions or interviews, you will want to use qualitative data analysis methods. In the world of scholarly research, there are multiple ways to analyze qualitative data. In EBP, we tend to use coding. Coding is the process of assigning a name or label (i.e., a code) to a block of text - in a way, summarizing what was said, such as a teacher’s response to a survey question about why they have not collaborated with the librarian. 
 
 **WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"} to learn more about codes and coding  [00:00 - 7:46 minutes]
