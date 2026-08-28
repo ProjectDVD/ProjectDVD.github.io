@@ -80,6 +80,7 @@ After you’ve done your second cycle of coding, review your codes. Which ones o
 * Overwhelmed (2 times)
 * Unfamiliar with process (2 times)
 * Too shy (1 time)
+
 Now that you have learned the primary reasons why the 8th grade teachers on your campus have not been collaborating with you, you can take the steps needed to overcome these barriers, even if working with only one teacher at a time. 
 
 ##### Qualitative Analysis Tools
