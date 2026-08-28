@@ -39,7 +39,7 @@ It is best to take a short break between each round of coding to get some distan
 ##### Let’s Walk Through an Example
 Now let’s give it a try. Here is the situation: At the monthly 8th grade team meeting, you, the librarian, drop by to give a brief presentation on the benefits of teacher/librarian collaboration. At the conclusion of your presentation, you pass out an exit slip, asking each teacher “What is one barrier (or more) that has prevented you and me from collaborating?” 
 
-###### Organize Your Data
+###### Step 1: Organize Your Data
 All 5 teachers complete the exit slip. You type their exact responses into your favorite spreadsheet, making sure you use pseudonyms to protect their confidentiality. See the table below for their responses.
 
 | Teacher  | Response |
@@ -48,10 +48,9 @@ All 5 teachers complete the exit slip. You type their exact responses into your 
 | Teacher 2  | This is my first year teaching. Every time I turn around, there is just one more thing someone is asking me to do - my head is spinning! Maybe we can return to this next year? |
 | Teacher 3  | I don’t understand how collaboration works. Where do we even begin? |
 | Teacher 4  | I’ve just been so busy… it seems like there is no time to do everything I want to do. |
-| Teacher 5  | I’m new to this campus. I used to collaborate with the librarian at my other school only because they approached me. I’m  uncertain about approaching people to ask anyone for help. |
+| Teacher 5  | I’m new to this campus. I used to collaborate with the librarian at my other school only because they approached me. I’m  uncertain about approaching people to ask anyone for help. | 
 
-
-###### First Cycle Coding
+###### Step 3: First Cycle Coding
 Now that we have organized our data into a spreadsheet and have read through the responses multiple times, it is time to go through our first cycle of coding. Let’s add two columns to our spreadsheet, one for in vivo codes and one for descriptive codes.
 
 Remember: in each cell, you only write the words that answer the question “What is one barrier (or more) that has prevented you and me from collaborating?” Do not code themes to other questions. Conversely, code every answer to that question and not just the answers you want to be true. You may want to consider highlighting the answers in the response before completing the “In Vivo Code” and “Descriptive Code” cells. 
@@ -64,7 +63,7 @@ Remember: in each cell, you only write the words that answer the question “Wha
 | Teacher 4  | I’ve just been ***so busy…*** it seems like there is ***no time*** to do everything I want to do. | | Too busy<br> Lack of time|
 | Teacher 5  | I’m new to this campus. I used to collaborate with the librarian at my other school only because they approached me. I’m  ***uncertain about approaching people*** to ask anyone for help. | | Too shy |
 
-###### Second Cycle Coding
+###### Step 4: Second Cycle Coding
 Good job - you just completed your first cycle of coding! Now, we will go through our second cycle of coding. You may find that you accidentally missed some codes, and that is okay! With the second cycle, review the codes for patterns and then identify themes. When you choose the word(s) for themes, sometimes you will use the participants’ words (when appropriate), and sometimes you will create your own. Notice how there is a new column in your spreadsheet titled “Themes.” Once you have completed second cycle coding, consider having a second person review your codes and themes, as sometimes fresh eyes will help us see codes we missed. 
 
 | Teacher  | Response | In Vivo Codes | Descriptive Codes | Themes | 
