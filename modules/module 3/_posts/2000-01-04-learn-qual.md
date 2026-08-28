@@ -97,7 +97,7 @@ You may be wondering about using an AI program to analyze your qualitative data.
 
 ***
 #### Explore More
-Check out these resources for additional information about data analysis and interpreting findings.
+Check out these resources for additional information about qualitative data analysis.
 
 ##### Websites:
 * [Rice Virtual Lab in Statistics](url){:target="_blank"}
@@ -109,7 +109,7 @@ Check out these resources for additional information about data analysis and int
 * [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"}
 
 ##### Qualitative Data Analysis Tools
-Multiple quantitative data analysis tools exist. Some require purchasing or a subscription fee, while others offer free options. Please visit each program’s website to determine which program might best meet your needs.
+Multiple qualitative data analysis tools exist. Some require purchasing or a subscription fee, while others offer free options. Please visit each program’s website to determine which program might best meet your needs.
 * [NVivo](url){:target="_blank"}: Lumivero describes NVivo as “easy-to-use, collaborative qualitative analysis software that allows researchers to import, organize, explore, connect and collaborate on their data to reveal more significant insights from their qualitative data faster.”
 * [Dedoose](url){:target="_blank"}: Dedoose describes their software as “a powerful, cloud-based application used to analyze and visualize qualitative and mixed methods data. Use Dedoose to analyze interviews, focus groups, photos, video, audio, survey data, and more in collaborative, innovative ways!”
 * [Delve](url){:target="_blank"}: Delve describes their program as “intuitive AI assisted qualitative analysis software that helps you find rigorous insights without the steep learning curve—no shortcuts, just efficient, collaborative research.” 
