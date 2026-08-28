@@ -89,6 +89,7 @@ Multiple tools exist for assisting with qualitative data analysis. Their primary
 * Dedoose
 * Delve
 * Taguette
+
 Additional information about these tools can be found in the “Explore More” subsection in this module.
 
 > [!NOTE]
