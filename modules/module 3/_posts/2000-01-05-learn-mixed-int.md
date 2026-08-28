@@ -2,7 +2,7 @@
 title: Learn-Part 3
 ---
 ### Module 3: Analyzing Data & interpeting Findings
-#### Part 3: Analyzing Mixed Methods Data & Interpreting Data
+#### Part 3: Mixed Methods Data & Interpreting Data
 *Suggested time: ## minutes*
 
 Mixed methods research uses a combination of quantitative and qualitative data methods. For example, if you distribute an electronic survey to your teachers about collaboration, you might include some questions that have multiple choice answers (closed-ended questions) and some questions that require a longer word response (open-ended response questions). For the closed-ended questions, you would use descriptive statistics (quantitative data analysis) to analyze the data; for example, responses may be analyzed using percentages, averages, or measures of central tendency). For the open-ended questions (where the teachers provide responses using their own words instead of selecting answers from a pre-determined list), you would use qualitative data analysis, coding their responses to identify patterns, categories, and common themes. This type of analysis helps explain participants’ attitudes, experiences, and perspectives in greater depth than the numbers alone can provide. Let’s look at a couple of examples of mixed methods research in your library.  
