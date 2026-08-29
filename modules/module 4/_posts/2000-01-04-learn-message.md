@@ -5,7 +5,6 @@ title: Learn-Part 2
 *Suggested time: ## minutes*
 
 #### PART 2: YOUR MESSAGE - WHAT ARE YOU COMMUNICATING?
-#### YOUR MESSAGE: WHAT ARE YOU COMMUNICATING?
 
 We hope the data analysis and interpretation you did in Module 3 provided evidence of how the school library program positively impacts the learning and teaching happening in your school. Before jumping headfirst into communicating everything that you have learned from analyzing your data with your audience, it’s important for you to know and be able to integrate your data/evidence into the overall message you want to communicate to your audience. If you want to influence and impact your audience, simply sharing your evidence is not enough. It must be connected to the overall message you want to communicate, otherwise you are simply sharing facts that have no real meaning or purpose.
 
