@@ -58,9 +58,9 @@ Check out these resources for additional information about data analysis and int
 * [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](https://nces.ed.gov/nationsreportcard/researchcenter/datatools2.aspx){:target="_blank"}
 
 ##### Videos: 
-* [Dr. Rakesh Maurya. Qualitative Data Analysis: Descriptive Coding Method](url){:target="_blank"}
-* [Dr. Rakesh Maurya. Qualitative Data Analysis: In-Vivo Coding Method](url){:target="_blank"}
-* [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"}
-* [Grad Coach. Inferential Statistics FULL Tutorial: T-Test, ANOVA, Chi-Square, Correlation & Regression Analysis](url){:target="_blank"}
+* [APU Global Digital Learning Solutions. Mixed Methods Research](https://www.youtube.com/watch?v=ydTw25cmTgg){:target="_blank"}
+* [GM Lectures. Types of Mixed Methods Research Designs](https://www.youtube.com/watch?v=q4OFHOg3Azc){:target="_blank"}
+* [Degree Doctor. Types of Mixed Methods Research Designs](https://www.youtube.com/watch?v=haLl9zc7z4Q){:target="_blank"}
+* [Research Revolution. Mixed Method Research in Education (complete overview)](https://www.youtube.com/watch?v=yytZRW82yic){:target="_blank"}
 
 ***
