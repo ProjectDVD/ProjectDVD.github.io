@@ -64,4 +64,3 @@ Check out these resources for additional information about data analysis and int
 * [Grad Coach. Inferential Statistics FULL Tutorial: T-Test, ANOVA, Chi-Square, Correlation & Regression Analysis](url){:target="_blank"}
 
 ***
-* [Taguette](url){:target="_blank"}: Baguette describes their program as “a free and open-source qualitative research tool (which works on all operating systems!) that allows users to: Import PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). Highlight words, sentences, or paragraphs and tag them with the codes you create. Work collaboratively with other users.” 
