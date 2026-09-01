@@ -54,8 +54,8 @@ Although it may not always be possible to definitively prove causation, it is st
 Check out these resources for additional information about data analysis and interpreting findings.
 
 ##### Websites:
-* [Rice Virtual Lab in Statistics](https://onlinestatbook.com/rvls.html){:target="_blank"}
-* [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](https://nces.ed.gov/nationsreportcard/researchcenter/datatools2.aspx){:target="_blank"}
+* [How Is Mixed Methods Research Used in Education?](https://www.educationdissertationediting.com/post/how-is-mixed-methods-research-used-in-education){:target="_blank"}
+* [Mixed Methods Research](https://catalyst.harvard.edu/community-engagement/mmr/){:target="_blank"} 
 
 ##### Videos: 
 * [APU Global Digital Learning Solutions. Mixed Methods Research](https://www.youtube.com/watch?v=ydTw25cmTgg){:target="_blank"}
