@@ -11,9 +11,9 @@ When working with non-numerical data, such as open-ended survey questions or int
 
 There are two types of coding commonly used in EBP: **in vivo** coding and **descriptive** coding.  In vivo coding is when you assign a code, or label, using the exact language from someone’s response. Descriptive coding is when you assign a code, or label, with a word or short phrase describing what was said; it is also a popular choice when coding photographs or videos. Note that there are other types of coding you could use, but more often than not, in vivo coding and descriptive coding are best suited for your tasks.  
 
-**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"} to learn more about in vivo coding [10:46 - 12:23 minutes]
+**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](https://www.youtube.com/watch?v=8MHkVtE_sVw){:target="_blank"} to learn more about in vivo coding [10:46 - 12:23 minutes]
 
-**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"} to learn more about descriptive coding [13:48 - 14:46 minutes]
+**WATCH** [Grad Coach Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](https://www.youtube.com/watch?v=8MHkVtE_sVw){:target="_blank"} to learn more about descriptive coding [13:48 - 14:46 minutes]
 
 For example, a group of school librarians were asked “How do you share evidence with your principal?” One librarian responded with:
 >“I also share data out through infographics and announcements, Our principal is awesome. She's always talking about the data. I'll send it to her in just informal ways, and she'll share with others. I also post things on my school library’s TikTok and Instagram accounts, just sharing that information, pulling circ stats.”
@@ -84,7 +84,7 @@ After you’ve done your second cycle of coding, review your codes. Which ones o
 Now that you have learned the primary reasons why the 8th grade teachers on your campus have not been collaborating with you, you can take the steps needed to overcome these barriers, even if working with only one teacher at a time. 
 
 ##### Qualitative Analysis Tools
-Multiple tools exist for assisting with qualitative data analysis. Their primary purpose, however, is to help you organize and label your data, as the software cannot recognize nor will they assign codes for you. The simplest option is to use a word processing program’s comments feature. Both [Microsoft Word](url) and [Google Docs](url) have tutorials explaining how to highlight text and add comments. As with quantitative analysis, you can use both Microsoft Excel and Google Sheets to organize your qualitative data. At the time of writing, neither company offers online information for using their spreadsheets to organize qualitative data; however, feel free to use your favorite search engine for a multitude of websites exploring how to do so. Other options include, but are not limited to:
+Multiple tools exist for assisting with qualitative data analysis. Their primary purpose, however, is to help you organize and label your data, as the software cannot recognize nor will they assign codes for you. The simplest option is to use a word processing program’s comments feature. Both [Microsoft Word](https://support.microsoft.com/en-us/office/insert-delete-or-change-a-comment-5cb1af25-4dfe-4484-9713-2c80391ecf12) and [Google Docs](https://support.google.com/docs/answer/65129?hl=en&co=GENIE.Platform%3DDesktop) have tutorials explaining how to highlight text and add comments. As with quantitative analysis, you can use both Microsoft Excel and Google Sheets to organize your qualitative data. At the time of writing, neither company offers online information for using their spreadsheets to organize qualitative data; however, feel free to use your favorite search engine for a multitude of websites exploring how to do so. Other options include, but are not limited to:
 * NVivo
 * Dedoose
 * Delve
