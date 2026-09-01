@@ -100,17 +100,17 @@ You may be wondering about using an AI program to analyze your qualitative data.
 Check out these resources for additional information about qualitative data analysis.
 
 ##### Websites:
-* [Rice Virtual Lab in Statistics](url){:target="_blank"}
-* [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](url){:target="_blank"}
+* [Rice Virtual Lab in Statistics](https://onlinestatbook.com/rvls.html){:target="_blank"}
+* [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](https://nces.ed.gov/nationsreportcard/researchcenter/datatools2.aspx){:target="_blank"}
 
 ##### Videos: 
-* [Dr. Rakesh Maurya. Qualitative Data Analysis: Descriptive Coding Method](url){:target="_blank"}
-* [Dr. Rakesh Maurya. Qualitative Data Analysis: In-Vivo Coding Method](url){:target="_blank"}
-* [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"}
+* [Dr. Rakesh Maurya. Qualitative Data Analysis: Descriptive Coding Method](https://www.youtube.com/watch?v=O5S9a4AIsE8){:target="_blank"}
+* [Dr. Rakesh Maurya. Qualitative Data Analysis: In-Vivo Coding Method](https://www.youtube.com/watch?v=qOPhMjtpfUg){:target="_blank"}
+* [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](https://www.youtube.com/watch?v=8MHkVtE_sVw){:target="_blank"}
 
 ##### Qualitative Data Analysis Tools
 Multiple qualitative data analysis tools exist. Some require purchasing or a subscription fee, while others offer free options. Please visit each program’s website to determine which program might best meet your needs.
-* [NVivo](url){:target="_blank"}: Lumivero describes NVivo as “easy-to-use, collaborative qualitative analysis software that allows researchers to import, organize, explore, connect and collaborate on their data to reveal more significant insights from their qualitative data faster.”
-* [Dedoose](url){:target="_blank"}: Dedoose describes their software as “a powerful, cloud-based application used to analyze and visualize qualitative and mixed methods data. Use Dedoose to analyze interviews, focus groups, photos, video, audio, survey data, and more in collaborative, innovative ways!”
-* [Delve](url){:target="_blank"}: Delve describes their program as “intuitive AI assisted qualitative analysis software that helps you find rigorous insights without the steep learning curve—no shortcuts, just efficient, collaborative research.” 
-* [Taguette](url){:target="_blank"}: Baguette describes their program as “a free and open-source qualitative research tool (which works on all operating systems!) that allows users to: Import PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). Highlight words, sentences, or paragraphs and tag them with the codes you create. Work collaboratively with other users.” 
+* [NVivo](https://lumivero.com/products/nvivo/){:target="_blank"}: Lumivero describes NVivo as “easy-to-use, collaborative qualitative analysis software that allows researchers to import, organize, explore, connect and collaborate on their data to reveal more significant insights from their qualitative data faster.”
+* [Dedoose](https://www.dedoose.com/){:target="_blank"}: Dedoose describes their software as “a powerful, cloud-based application used to analyze and visualize qualitative and mixed methods data. Use Dedoose to analyze interviews, focus groups, photos, video, audio, survey data, and more in collaborative, innovative ways!”
+* [Delve](https://delvetool.com/){:target="_blank"}: Delve describes their program as “intuitive AI assisted qualitative analysis software that helps you find rigorous insights without the steep learning curve—no shortcuts, just efficient, collaborative research.” 
+* [Taguette](https://www.taguette.org/about.html){:target="_blank"}: Baguette describes their program as “a free and open-source qualitative research tool (which works on all operating systems!) that allows users to: Import PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). Highlight words, sentences, or paragraphs and tag them with the codes you create. Work collaboratively with other users.” 
