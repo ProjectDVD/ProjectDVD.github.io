@@ -52,6 +52,9 @@ All 5 teachers complete the exit slip. You type their exact responses into your 
 | Teacher 4  | I’ve just been so busy… it seems like there is no time to do everything I want to do. |
 | Teacher 5  | I’m new to this campus. I used to collaborate with the librarian at my other school only because they approached me. I’m  uncertain about approaching people to ask anyone for help. | 
 
+###### Step 2: Read Through Your Data
+Read through your data. Take a break. Read through your data again. 
+
 ###### Step 3: First Cycle Coding
 Now that we have organized our data into a spreadsheet and have read through the responses multiple times, it is time to go through our first cycle of coding. Let’s add two columns to our spreadsheet, one for in vivo codes and one for descriptive codes.
 
@@ -82,6 +85,9 @@ After you’ve done your second cycle of coding, review your codes. Which ones o
 * Overwhelmed (2 times)
 * Unfamiliar with process (2 times)
 * Too shy (1 time)
+
+###### Step 5: Memo
+While you are analyzing (and even after), take notes about your thinking and observations throughout the process. 
 
 Now that you have learned the primary reasons why the 8th grade teachers on your campus have not been collaborating with you, you can take the steps needed to overcome these barriers, even if working with only one teacher at a time. 
 
