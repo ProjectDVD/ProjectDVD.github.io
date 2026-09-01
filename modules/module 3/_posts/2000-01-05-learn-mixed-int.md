@@ -47,15 +47,15 @@ However, stronger evidence for causation can be established when you, the librar
 
 Although it may not always be possible to definitively prove causation, it is still important to document efforts toward improvement and communicate results to stakeholders. Librarians should share evidence demonstrating how programs, services, or interventions align with established goals and contribute to student learning or engagement. For example, a librarian might report that students participating in the book club showed increased reading motivation, checked out more books, and demonstrated higher fluency gains compared to nonparticipants. Similarly, a library makerspace program may not be solely responsible for improved problem-solving skills, but student reflections, teacher observations, and increased engagement data may provide evidence that the program positively supported student learning experiences.
 
-**WATCH** [Sprouts Correlation vs Causation Explained: Why Patterns Can Mislead Us](url){:target="_blank"} to learn more about causation and correlation  [00:00 - 4:50 minutes]
+**WATCH** [Sprouts Correlation vs Causation Explained: Why Patterns Can Mislead Us](https://www.youtube.com/watch?v=ofweqU0Lz4I){:target="_blank"} to learn more about causation and correlation  [00:00 - 4:50 minutes]
 
 ***
 #### Explore More
 Check out these resources for additional information about data analysis and interpreting findings.
 
 ##### Websites:
-* [Rice Virtual Lab in Statistics](url){:target="_blank"}
-* [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](url){:target="_blank"}
+* [Rice Virtual Lab in Statistics](https://onlinestatbook.com/rvls.html){:target="_blank"}
+* [National Center for Educational Statistics, National Assessment of Educational Progress Data Analysis Tools](https://nces.ed.gov/nationsreportcard/researchcenter/datatools2.aspx){:target="_blank"}
 
 ##### Videos: 
 * [Dr. Rakesh Maurya. Qualitative Data Analysis: Descriptive Coding Method](url){:target="_blank"}
@@ -63,16 +63,5 @@ Check out these resources for additional information about data analysis and int
 * [Grad Coach. Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples)](url){:target="_blank"}
 * [Grad Coach. Inferential Statistics FULL Tutorial: T-Test, ANOVA, Chi-Square, Correlation & Regression Analysis](url){:target="_blank"}
 
-##### Quantitative Data Analysis Tools
-A multitude of quantitative data analysis tools exist. Most require purchasing or a subscription fee. Please visit each program’s website to determine which program might best meet your needs.
-* [IBM SPSS Statistics](url){:target="_blank"}: IBM describes this product as “a comprehensive statistical analysis platform designed to help organizations and individuals extract reliable insights from data. It combines robust statistical testing, predictive modeling, regression, and forecasting with streamlined data preparation and automated analysis” (May 2026). 
-* [JMP](url){:target="_blank"}: JMP describes their software as “empower[ing] users to explore and analyze data visually, solve critical problems, and then share those insights to make stronger data-driven decisions” (May 2026).
-* [Minitab Statistical Software](url){:target="_blank"}: Minitab describes their software as being able to “look at current and past data to discover trends, find and predict patterns, uncover hidden relationships between variables, and create stunning visualizations to tackle even the most daunting challenges and opportunities” (May 2026).
-* [SYSTAT](url){:target="_blank"}: Graffiti LLC describes SigmaPlotng as “a powerful and intuitive statistical data analysis tool meticulously designed to meet the needs of undergraduate students. It provides a focused suite of robust functionalities that enable students to effectively perform essential statistical analysis and data interpretation tasks within an educational setting” (May 2026).
-
-##### Qualitative Data Analysis Tools
-Multiple quantitative data analysis tools exist. Some require purchasing or a subscription fee, while others offer free options. Please visit each program’s website to determine which program might best meet your needs.
-* [NVivo](url){:target="_blank"}: Lumivero describes NVivo as “easy-to-use, collaborative qualitative analysis software that allows researchers to import, organize, explore, connect and collaborate on their data to reveal more significant insights from their qualitative data faster.”
-* [Dedoose](url){:target="_blank"}: Dedoose describes their software as “a powerful, cloud-based application used to analyze and visualize qualitative and mixed methods data. Use Dedoose to analyze interviews, focus groups, photos, video, audio, survey data, and more in collaborative, innovative ways!”
-* [Delve](url){:target="_blank"}: Delve describes their program as “intuitive AI assisted qualitative analysis software that helps you find rigorous insights without the steep learning curve—no shortcuts, just efficient, collaborative research.” 
+***
 * [Taguette](url){:target="_blank"}: Baguette describes their program as “a free and open-source qualitative research tool (which works on all operating systems!) that allows users to: Import PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). Highlight words, sentences, or paragraphs and tag them with the codes you create. Work collaboratively with other users.” 
