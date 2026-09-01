@@ -36,6 +36,8 @@ Now let’s look at the process for coding.
 > [!NOTE]
 It is best to take a short break between each round of coding to get some distance from your data and help you come back to it with "new" eyes, as it is easy to miss things the longer you focus on your data set.
 
+<img src="/img/Mod3-QualProcessImage.png" alt="qualitative analysis process" width="100%"/>
+
 ##### Let’s Walk Through an Example
 Now let’s give it a try. Here is the situation: At the monthly 8th grade team meeting, you, the librarian, drop by to give a brief presentation on the benefits of teacher/librarian collaboration. At the conclusion of your presentation, you pass out an exit slip, asking each teacher “What is one barrier (or more) that has prevented you and me from collaborating?” 
 
