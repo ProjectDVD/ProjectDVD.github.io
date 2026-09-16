@@ -34,3 +34,5 @@ Todd, R. (2015). Evidence-based practice and school libraries: Interconnections 
 Todd, R. J. (2018). Through the lens of evidence-based practice. In R. V. Small & M. A. Mardis (Eds.), _Research Methods for Librarians and Educators: Practical Applications in Formal and Informal Learning Environments_ (pp. 130-143). Libraries Unlimited.
 
 Tucker, C. (2018, January 9). Start the new year by articulating your why [blog post]. [https://catlintucker.com/2018/01/new-year-your-why/](https://catlintucker.com/2018/01/new-year-your-why/){:target="_blank"}
+
+Valenza, J. (2015). Evolving with evidence: Leveraging new tools for EBP. _Knowledge Quest, 43_(3), 36-43. [https://files.eric.ed.gov/fulltext/EJ1049167.pdf](https://files.eric.ed.gov/fulltext/EJ1049167.pdf){:target="_blank"}
